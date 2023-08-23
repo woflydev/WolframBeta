@@ -1,6 +1,6 @@
 # Wolfram | Beta
 
-Source code available publicly at [Codeberg](https://codeberg.org/woflydev/wolfree-beta/).
+Source code available publicly at [Codeberg](https://codeberg.org/woflydev/wolfram-beta/).
 
 A Node.js package that uses [Puppeteer](https://pptr.dev) to grab step-by-step solutions from [Wolfram | Alpha®](https://www.wolframalpha.com) queries directly in your terminal (with HTML support) without needing an API key. **Wolfram | Beta** provides a command-line interface to input queries, fetch and parse data from Wolfram | Alpha®, and is fully hackable for future adaptation!
 
