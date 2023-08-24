@@ -6,6 +6,8 @@ A Node.js package that uses [Puppeteer](https://pptr.dev) to grab step-by-step s
 
 Jump to [Usage on Codeberg](https://codeberg.org/woflydev/wolfram-beta/#usage).
 
+![photo1](photo1.png)
+
 ## Intent
 
 This project aims to merely serve as an educational demonstration of extending the capabalities of an existing service to the terminal environment.
@@ -20,3 +22,5 @@ This project aims to merely serve as an educational demonstration of extending t
 ## More Info
 
 Check the main repository at [Codeberg](https://codeberg.org/woflydev/wolfram-beta) for stuff regarding contributing and other info.
+
+![photo2](photo2.png)
